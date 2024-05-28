@@ -1,0 +1,18 @@
+.gitignore
+*초기셋팅 중요*
+
+develop
+브랜치간 이동은 커밋할게 없는 깔끔한 상황이 좋음
+
+병합 merge
+
+
+
+
+로컬 -> 개발계(dev) -> test -> stage -> Real 환경
+
+stage -> commit(등록)
+
+
+
+

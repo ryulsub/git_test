@@ -2,4 +2,8 @@
 첫번째 파일에 내용 추가
 첫번째 내용 추가
 develop 브랜치에 내용 추가
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
